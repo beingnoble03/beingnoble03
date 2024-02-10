@@ -3,4 +3,3 @@
 - ✨ Also, project leader at [Information Management Group, IIT Roorkee](https://github.com/IMGIITRoorkee).
 - 🌱 I’m currently learning Golang.
 - 📫 You can reach me out on [linkedin](https://www.linkedin.com/in/noble-mittal-4b3a511a6/), [instagram](https://www.instagram.com/being_noble03/) or drop a message at [outlook](mailto:noblemittal@outlook.com).
-- 
