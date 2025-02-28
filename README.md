@@ -4,4 +4,4 @@
 -  Google Summer of Code'23 [The Palisadoes Foundation](https://github.com/PalisadoesFoundation).
 -  Project leader at [Information Management Group, IIT Roorkee](https://github.com/IMGIITRoorkee).
 -  Learning Golang.
--  Reach me out on [linkedin](https://www.linkedin.com/in/noble-mittal-4b3a511a6/), [instagram](https://www.instagram.com/being_noble03/) or drop a message at [outlook](mailto:noblemittal@outlook.com).
+-  Reach me out on [linkedin](https://www.linkedin.com/in/noble-mittal-4b3a511a6/) or drop a message at [outlook](mailto:noblemittal@outlook.com).
